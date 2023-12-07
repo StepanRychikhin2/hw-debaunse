@@ -3,7 +3,9 @@
     margin: 0 auto;
   }
   
-  
+  .conteoner{
+    background-color: rgb(43, 226, 214);
+  }
   .slider__input {
     width: 100%;
   }
